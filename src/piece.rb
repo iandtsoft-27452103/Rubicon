@@ -1,0 +1,16 @@
+Promote = 8
+Empty = 0
+Pawn = 1
+Lance = 2
+Knight = 3
+Silver = 4
+Gold = 5
+Bishop = 6
+Rook = 7
+King = 8
+Pro_Pawn = Pawn + Promote
+Pro_Lance = Lance + Promote
+Pro_Knight = Knight + Promote
+Pro_Silver = Silver + Promote
+Horse = Bishop + Promote
+Dragon = Rook + Promote
